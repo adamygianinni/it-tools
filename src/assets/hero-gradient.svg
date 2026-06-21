@@ -1,23 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 275">
-  <defs>
-    <linearGradient id="small-hero-gradient-1" x1="13.74" y1="183.7" x2="303.96" y2="45.59" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#25636c"/>
-      <stop offset="0.6" stop-color="#3b956f"/>
-      <stop offset="1" stop-color="#14a058"/>
-    </linearGradient>
-  </defs>
-  <g>
-    <g>
-      <path fill="#14a058" opacity="0.49" d="M0,187.5v25s0,37.5,50,50S300,225,300,225V187.5Z"/>
-    </g>
-    <g>
-      <path fill="#14a058" opacity="0.49" d="M300,237.5S287.5,275,250,275,121.05,237.5,61.4,200s134.21,0,134.21,0Z"/>
-    </g>
-    <g>
-      <path fill="#14a058" opacity="0.38" d="M0,200v12.5a241.47,241.47,0,0,0,112.5,50c73.6,11.69,130.61-14.86,150-25L300,200Z"/>
-    </g>
-    <g>
-      <path fill="url(#small-hero-gradient-1)" d="M0,0V212.5s62.5-12.5,150,25,150,0,150,0V0Z"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 30.5.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 275" style="enable-background:new 0 0 300 275;" xml:space="preserve">
+<g>
+	<g>
+		<path style="opacity:0.49;fill:#55665C;enable-background:new    ;" d="M0,187.5v25c0,0,0,37.5,50,50S300,225,300,225v-37.5H0z"/>
+	</g>
+	<g>
+		<path style="opacity:0.49;fill:#6D6D6D;enable-background:new    ;" d="M300,237.5c0,0-12.5,37.5-50,37.5s-128.95-37.5-188.6-75
+			s134.21,0,134.21,0L300,237.5z"/>
+	</g>
+	<g>
+		<path style="opacity:0.38;fill:#6F7773;enable-background:new    ;" d="M0,200v12.5c32.55,26.107,71.31,43.333,112.5,50
+			c73.6,11.69,130.61-14.86,150-25L300,200H0z"/>
+	</g>
+	<g>
+		<path style="fill:#919191;" d="M0,0v212.5c0,0,62.5-12.5,150,25s150,0,150,0V0H0z"/>
+	</g>
+</g>
 </svg>
