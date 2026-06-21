@@ -27,3 +27,14 @@ app.use(plausible);
 app.use(shadow);
 
 app.mount('#app');
+
+// Inicialização do Matomo
+const _paq = window._paq = window._paq || [];
+_paq.push(['enableLinkTracking']);
+(function() {
+  const u = "https://analytics.adamy.dev/"; // Seu link do Matomo
+  _paq.push(['setTrackerUrl', u + 'matomo.php']);
+  _paq.push(['setSiteId', '2']); // ID do site no Matomo
+  const d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+  g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g,s);
+})();
