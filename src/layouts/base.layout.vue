@@ -82,7 +82,7 @@ const tools = computed<ToolCategory[]>(() => [
           <div>
             © {{ new Date().getFullYear() }}
             <c-link target="_blank" rel="noopener" href="https://corentin.tech?utm_source=it-tools&utm_medium=footer">
-              Corentin Thomasset
+              Corentin Thomasset | Git fork by Adamy Gianinni
             </c-link>
           </div>
         </div>
