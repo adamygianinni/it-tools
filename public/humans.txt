@@ -2,3 +2,4 @@
 Developer: Corentin Thomasset
 Site: https://github.com/CorentinTh
 Twitter: @cthmsst
+Git fork by Adamy Gianinni (contact@adamy.dev)
